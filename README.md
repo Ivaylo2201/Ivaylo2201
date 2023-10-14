@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ivaylo</h1>
-
 <p align="left">
 </p>
 
