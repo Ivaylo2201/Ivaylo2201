@@ -28,3 +28,5 @@
      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+     <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?        sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AVisual_Studio_Icon_2022.svg&psig=AOvVaw3EHQZXYIgkiO92TNDshBVS&ust=1697385836273000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIClgZD19YEDFQAAAAAdAAAAABAl" alt="pycharm" width="40" height="40"/> </a>
+
