@@ -2,7 +2,7 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
     • My name is Ivaylo, I'm 20 years old and I'm from Varna, Bulgaria. <br>
-    • Currently I'm studying computer science at Technical University of Varna and Python at SoftUni. <br>
+    • Currently I'm studying computer science at Technical University of Varna. <br>
     • I'm very passionate and always ready to learn & improve. <br>
 </p>
 <h3 align="left">Certificates:</h3>
