@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivaylo.py</h1>
+<h1 align="center">Hello there! Welcome to my GitHub profile!</h1>
 <p align="left">
 </p>
 
