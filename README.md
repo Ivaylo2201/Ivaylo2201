@@ -12,6 +12,7 @@
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868">Python Advanced</a> <br>
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92">Python OOP</a> <br>
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">PostgreSQL</a> <br>
+    • <a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">Python ORM</a> <br>
 </p>
 <p align="left">
 </p>
