@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋🏻 Welcome to my GitHub profile!</h1>
 <h3 align="left">About Me:</h3>
 <p align="left">
-    • Hi! My name is Ivaylo, a 20 years old Pythoneer from Varna, Bulgaria. <br>
+    • Hi! My name is Ivaylo, a 21 years old Pythoneer from Varna, Bulgaria. <br>
     • Currently I'm majoring computer science @ Technical University of Varna and SoftUni. <br>
     • I'm very passionate and I'm always ready to learn & improve. <br>
 </p>
