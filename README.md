@@ -28,11 +28,6 @@
 ---
 
 <div display="flex">
-  <div width="50%" height="100%">
-    <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ivaylo2201&layout=compact&bg_color=09131B&hide_border=true" />
-  </div>
-  <div width="50%" height="100%">
-    <h3 align="left">Certificates:</h3>
   <p align="left">
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> <br>
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a> <br>
@@ -42,5 +37,4 @@
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a> <br>
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a> <br>
   </p>
-  </div>
 </div>
