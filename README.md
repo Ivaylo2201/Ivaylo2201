@@ -2,7 +2,7 @@
 
 ## I'm a Python Web Developer
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=120px height=110px alt="side_sticker" src="https://miro.medium.com/v2/resize:fit:1400/0*OxDZ95Af_-7Ih_-m.gif" />
 
 • Hi! My name is Ivaylo, a 21 years old Pythoneer from Varna, Bulgaria. <br>
 • Currently I'm majoring computer science @ Technical University of Varna and SoftUni. <br>
