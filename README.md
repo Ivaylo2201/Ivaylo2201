@@ -16,6 +16,7 @@
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Php" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" />
@@ -30,4 +31,15 @@
 
 <div>
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ivaylo2201&layout=compact&bg_color=09131B&hide_border=true" />
+
+  <h3 align="left">Certificates:</h3>
+  <p align="left">
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> <br>
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a> <br>
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868">Python Advanced</a> <br>
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92">Python OOP</a> <br>
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">PostgreSQL</a> <br>
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a> <br>
+      • <a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a> <br>
+  </p>
 </div>
