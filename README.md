@@ -2,8 +2,6 @@
 
 ## I'm a Python Web Developer
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZzZmI2NmdoZGRvMWwwenk0MWV2YTF5dmNoNGplbjI2M3IxYmM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" />
-
 • Hi! My name is Ivaylo, a 21 years old Pythoneer from Varna, Bulgaria. <br>
 • Currently I'm majoring computer science @ Technical University of Varna and SoftUni. <br>
 • I'm very passionate and I'm always ready to learn & improve. <br>
@@ -30,9 +28,11 @@
 ---
 
 <div display="flex">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ivaylo2201&layout=compact&bg_color=09131B&hide_border=true" />
-
-  <h3 align="left">Certificates:</h3>
+  <div width="50%" height="100%">
+    <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ivaylo2201&layout=compact&bg_color=09131B&hide_border=true" />
+  </div>
+  <div width="50%" height="100%">
+    <h3 align="left">Certificates:</h3>
   <p align="left">
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> <br>
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a> <br>
@@ -42,4 +42,5 @@
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a> <br>
       • <a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a> <br>
   </p>
+  </div>
 </div>
