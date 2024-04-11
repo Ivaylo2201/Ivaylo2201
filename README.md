@@ -29,7 +29,7 @@
 
 ---
 
-<div>
+<div display="flex">
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ivaylo2201&layout=compact&bg_color=09131B&hide_border=true" />
 
   <h3 align="left">Certificates:</h3>
