@@ -30,7 +30,7 @@
 <div display="flex">
   <h3 align="left">Certificates:</h3>
   <p align="left">
-    • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> <br>
+    • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a>
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a> <br>
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868">Python Advanced</a> <br>
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92">Python OOP</a> <br>
