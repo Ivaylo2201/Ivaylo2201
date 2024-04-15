@@ -27,13 +27,11 @@
 
 ### Certificates:
 
-#### Column 1:
 - [Python Basics](https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e)
 - [Python Fundamentals](https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746)
 - [Python Advanced](https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868)
 - [Python OOP](https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92)
 
-#### Column 2:
 - [PostgreSQL](https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43)
 - [Django ORM](https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f)
 - [Django Basics](https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d)
