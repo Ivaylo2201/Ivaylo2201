@@ -10,7 +10,7 @@
 
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="55px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" /><br>
+<img align="left" alt="Java" width="55px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -29,7 +29,7 @@
   <h3 align="left">Certificates:</h3>
   <p align="left">
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> 
-    • <a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">PostgreSQL</a>
+    • <a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">PostgreSQL</a><br>
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a> 
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a> 
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868">Python Advanced</a>
