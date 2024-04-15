@@ -25,7 +25,7 @@
 
 ---
 
-<div display="flex">
+<div display="flex" style="text-align: left;">
   <h3 align="left">Certificates:</h3>
   <p align="left">
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> 
@@ -36,5 +36,5 @@
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a><br> 
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a> 
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/212672?code=b56c6311">Django Advanced</a><br>
-</p>
+  </p>
 </div>
