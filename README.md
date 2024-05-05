@@ -23,7 +23,7 @@
 
 ---
 
-### Certificates:
+### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Certificates:
 
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> 
     • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a>
