@@ -21,6 +21,9 @@
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+<br>
+<br>
+
 ---
 
 ### Certificates:
@@ -28,10 +31,8 @@
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a> 
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868">Python Advanced</a>
-• <a href="https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92">Python OOP</a><br>
+• <a href="https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92">Python OOP</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">PostgreSQL</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/212672?code=b56c6311">Django Advanced</a>
-
-
