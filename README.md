@@ -4,7 +4,9 @@
 • Currently I'm majoring computer science @ Technical University of Varna and SoftUni. <br>
 • I'm very passionate and I'm always ready to learn & improve. <br>
 
-<img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> > <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<div style="display: flex">
+  <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> > <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+</div>
 
 ---
 
