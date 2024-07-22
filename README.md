@@ -35,3 +35,6 @@
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a>
 • <a href="https://softuni.bg/certificates/certificates/converttoimage/212672?code=b56c6311">Django Advanced</a>
+• <a href="https://softuni.bg/certificates/certificates/converttoimage/218403?code=9b595196">HTML & CSS</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylo2201&hide=javascript,css,scss,html&theme=tokyonight)
