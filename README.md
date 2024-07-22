@@ -43,6 +43,8 @@
     <img align="left" alt="InteliiJ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 </ul>
 
+<br>
+<br>
 ---
 
 ### Certificates:
