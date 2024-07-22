@@ -6,6 +6,8 @@
 
 ---
 
+### <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtzcGVxN3Bmc2swa2NpYmU3Mzd0YmZwd3FraHg4c3QxY3g0MTBsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.webp" width="25" style="margin-right: 5px;"> &nbsp; My Tech stack includes:
+
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages:
 
 <ul style="display: flex">
