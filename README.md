@@ -23,6 +23,8 @@
 <br>
 <br>
 
+### <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5sc3BvdDc5MDJhaGRhMnZpaXMzcW8xNGFoeDc3a2Y2dTFjd2N5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width="25" style="margin-right: 5px;"> &nbsp; Tools I know:
+
 ---
 
 ### Certificates:
