@@ -37,7 +37,7 @@
 ### <p>Tools:<p>
 
 <ul style="display: flex">
-    <img align="left" alt="VSCode" width="50px" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png" style="padding-right:10px;" />
+    <img align="left" alt="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
     <img align="left" alt="PostgreSQL" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
