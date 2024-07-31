@@ -51,7 +51,6 @@
 
 ### Stats:
 
-![Ivaylo2201's Stats](https://github-readme-stats.vercel.app/api?username=Ivaylo2201&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![Ivaylo2201's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivaylo2201&theme=radical&hide_border=false)
 ![Ivaylo2201's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylo2201&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
