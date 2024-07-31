@@ -10,13 +10,13 @@
 ### <p>Languages:<p>
 
 <ul style="display: flex">
-    <img align="left" alt="Python" width="55px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="TypeScript" width="55px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="JavaScript" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="PHP" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="Java" width="55px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-    <img align="left" alt="HTML5" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="CSS3" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
+    <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 </ul>
 
 <br>
@@ -25,10 +25,10 @@
 ### <p>Framework & Libraries:<p>
 
 <ul style="display: flex">
-    <img align="left" alt="Django" width="55px" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="padding-right:10px;" />
-    <img align="left" alt="Laravel" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="TailwindCSS" width="55px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-    <img align="left" alt="React" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Django" width="50px" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="padding-right:10px;" />
+    <img align="left" alt="Laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="TailwindCSS" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+    <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </ul>
 
 <br>
@@ -50,7 +50,7 @@
 
 ---
 
-## Course Overview
+### Course Overview
 
 <ul>
     <li><a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a></li>
