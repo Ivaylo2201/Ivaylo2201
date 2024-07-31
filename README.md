@@ -48,7 +48,6 @@
 <br>
 
 ---
-### Certificates:
 
 ## Course Overview
 
