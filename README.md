@@ -26,7 +26,7 @@
 
 <ul style="display: flex">
     <img align="left" alt="Django" width="55px" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="padding-right:10px;" />
-    <img align="left" alt="Laravel" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
     <img align="left" alt="TailwindCSS" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
     <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </ul>
