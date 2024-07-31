@@ -50,14 +50,18 @@
 ---
 ### Certificates:
 
-<ul>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e">Python Basics</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746">Python Fundamentals</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868">Python Advanced</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92">Python OOP</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43">PostgreSQL</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f">Python ORM</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d">Django Basics</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/212672?code=b56c6311">Django Advanced</a></li>
-    <li><a href="https://softuni.bg/certificates/certificates/converttoimage/218403?code=9b595196">HTML & CSS</a></li>
-</ul>
+## Course Overview
+
+| Course              | Technology                                                                                                   | Grade | Certificate |
+|---------------------|-------------------------------------------------------------------------------------------------------------------|-------|-------------|
+| Python Basics       | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256"></div>              | <div style="text-align: center;">5.88</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/147360?code=ae0c3d5e) |
+| Python Fundamentals | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256"></div>              | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/166757?code=a64a8746) |
+| Python Advanced     | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256"></div>              | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/173743?code=c522f868) |
+| Python OOP          | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256"></div>              | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/180799?code=f0b98d92) |
+| PostgreSQL          | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></div>             | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/185959?code=82291b43) |
+| Python ORM          | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="border-radius: 50%;"></div>              | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/193770?code=42e4d17f) |
+| Django Basics       | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="border-radius: 50%;"></div>  | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/207379?code=f497e80d) |
+| Django Advanced     | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="42" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="border-radius: 50%;"></div>  | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/212672?code=b56c6311) |
+| HTML & CSS          | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></div>         | <div style="text-align: center;">6.00</div>  | [Certificate](https://softuni.bg/certificates/certificates/converttoimage/218403?code=9b595196) |
+| JS Front-End        | <div align="center" style="display: flex; justify-content: center; align-items: center; height: 50px;"><img width="45" src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"></div> | <div style="text-align: center;">...</div>  |     ...        |
+
