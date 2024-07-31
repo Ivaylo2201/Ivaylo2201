@@ -47,7 +47,7 @@
 <br>
 <br>
 
-![Ivaylo2201's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylo2201&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Ivaylo2201's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylo2201&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
