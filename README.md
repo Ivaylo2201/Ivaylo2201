@@ -1,6 +1,6 @@
 # Hello there! 👋🏻 Welcome to my GitHub profile! 
 
-• Hi! My name is Ivaylo, a 21 years old full-stack web developer from Varna, Bulgaria. <br>
+• Hi! My name is Ivaylo, a 22 years old full-stack web developer from Varna, Bulgaria. <br>
 • Currently I'm majoring computer science @ Technical University of Varna and SoftUni. <br>
 • I'm very passionate and I'm always ready to learn & improve. <br>
 
@@ -25,6 +25,8 @@
 
 <ul style="display: flex">
     <img align="left" alt="Django" width="55px" src="https://next-js-portfolio-frontend.vercel.app/images/logo-django.png" style="padding-right:10px;" />
+    <img align="left" alt="ExpressJS" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/express/express-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Prisma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="padding-right:10px;" />
     <img align="left" alt="TailwindCSS" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
     <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </ul>
