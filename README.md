@@ -1,4 +1,4 @@
-# Hello 👋🏻 Welcome to my GitHub profile!
+# Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 • My name is Ivaylo, a 22-year-old full-stack web developer based in Varna, Bulgaria.  
 • I am currently pursuing a degree in Computer Science at the Technical University of Varna and SoftUni.  
