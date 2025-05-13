@@ -1,15 +1,22 @@
-# Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> I'm Ivaylo!  
 
-• My name is Ivaylo, a 22-year-old full-stack web developer based in Varna, Bulgaria.  
-• I am currently pursuing a degree in Computer Science at the Technical University of Varna and SoftUni.  
-• I am deeply passionate about technology and constantly strive to enhance my skills and knowledge.
+- I'm a full-stack developer based in Varna, Bulgaria 🌊  
+- currently pursuing a bachelor degree in `Software & Internet Technologies` at Technical University of Varna 🎓  
+- I've uccessfully completed a `Software Engineering` course at Software University 💻  
+- Deeply committed to writing clean, maintainable code that meets project goals and exceeds client expectations 👨🏻‍💻​
 
-### <img align="left" alt="HTML Tag Image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; **<span style="font-size: 28px;">Tech Stack:</span>**
+## Current Tech Stack
 
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=py,js,ts,cs,html,css)](https://skillicons.dev)
-
-**Frameworks & Libraries**
-
-[![Frameworks&Libraries](https://skillicons.dev/icons?i=django,express,dotnet,react,tailwind,prisma)](https://skillicons.dev)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="100px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="65px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/306px-C-Sharp_Logo.svg.png?20240807050839" width="60px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="68px" />
+</p>
