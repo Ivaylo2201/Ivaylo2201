@@ -1,8 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> I'm Ivaylo!  
 
 - I'm a full-stack developer based in Varna, Bulgaria 🌊  
-- currently pursuing a bachelor degree in `Software & Internet Technologies` at Technical University of Varna 🎓  
-- I've uccessfully completed a `Software Engineering` course at Software University 💻  
+- Currently pursuing a bachelor degree in `Software & Internet Technologies` at Technical University of Varna 🎓  
+- I've successfully completed a `Software Engineering` course at Software University 💻  
 - Deeply committed to writing clean, maintainable code that meets project goals and exceeds client expectations 👨🏻‍💻​
 
 ## Current Tech Stack
