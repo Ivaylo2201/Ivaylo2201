@@ -4,7 +4,7 @@
 - Currently pursuing a bachelor degree in `Software & Internet Technologies` at Technical University of Varna 🎓  
 - Successfully completed a `Software Engineering` course at Software University 💻  
 - Passionate about writing clean, maintainable code that aligns with project goals and exceeds client expectations 👨🏻‍💻
-- Currently working as an Application Development Intern at `myPOS Limited, branch Bulgaria` 💼
+- Currently working as an Intern Application Developer at `myPOS Limited, branch Bulgaria` 💼
 
 ## Current Tech Stack
 
