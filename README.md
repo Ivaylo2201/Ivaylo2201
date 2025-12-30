@@ -7,17 +7,4 @@
 - Currently working as an Intern Application Developer at `myPOS Limited, branch Bulgaria` 💼
 
 ## Current Tech Stack
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/306px-C-Sharp_Logo.svg.png?20240807050839" width="60px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="68px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="100px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="65px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="70px" />
-</p>
+![TechStack](https://skillicons.dev/icons?i=cs,postgres,ts,react,tailwindcss)
