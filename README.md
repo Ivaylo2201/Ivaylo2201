@@ -1,10 +1,9 @@
 # Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> I'm Ivaylo!  
 
-- I'm a full-stack developer based in Varna, Bulgaria 🌊  
-- Currently pursuing a bachelor degree in `Software & Internet Technologies` at Technical University of Varna 🎓  
-- Successfully completed a `Software Engineering` course at Software University 💻  
-- Passionate about writing clean, maintainable code that aligns with project goals and exceeds client expectations 👨🏻‍💻
-- Currently working as an Junior Application Developer at `myPOS Limited, branch Bulgaria` 💼
+* I'm a full-stack developer based in Varna, Bulgaria 🌊
+* Passionate about clean, maintainable code that meets project goals 👨🏻‍💻
+* Graduate in `Software & Internet Technologies` & `Software Engineering` 🎓
+* Currently working as a Junior .NET Developer @ `myPOS Limited, branch Bulgaria` 💼
 
 ## Current Tech Stack
-![TechStack](https://skillicons.dev/icons?i=cs,postgres,ts,react,tailwindcss)
+![TechStack](https://skillicons.dev/icons?i=cs,ts,py,postgres,mongo,react,tailwindcss)
