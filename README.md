@@ -5,5 +5,5 @@
 * Graduate in `Software & Internet Technologies` & `Software Engineering` 🎓
 * Currently working as a Junior .NET Developer @ `myPOS Limited, branch Bulgaria` 💼
 
-## Current Tech Stack
+## Tech Stack
 ![TechStack](https://skillicons.dev/icons?i=cs,ts,postgres,mongo,react,tailwindcss)
