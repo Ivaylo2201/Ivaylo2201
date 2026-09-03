@@ -6,4 +6,4 @@
 * Currently working as a Junior .NET Developer @ `myPOS Limited, branch Bulgaria` 💼
 
 ## Current Tech Stack
-![TechStack](https://skillicons.dev/icons?i=cs,ts,py,postgres,mongo,react,tailwindcss)
+![TechStack](https://skillicons.dev/icons?i=cs,ts,postgres,mongo,react,tailwindcss)
